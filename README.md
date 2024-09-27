@@ -1,4 +1,4 @@
-Salutations! My name is Natasha and I'm a Computer Science student from NYC. 
+Salutations! My name is Natasha and I'm from NYC. I'm studying Computer Science at Wellesley College.
 
 ✨ Fun fact: My username (na-✌️-👟) is inspired by a nickname my younger brother called me. 
 
