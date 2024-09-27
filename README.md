@@ -4,3 +4,4 @@ Salutations! My name is Natasha and I'm a Computer Science student from NYC.
 
 🚀 I also love outer space. 
 
+[![](https://visitcount.itsvg.in/api?id=natwoshoes&label=STALKERS%20%3BD&icon=5&pretty=false)](https://visitcount.itsvg.in)
