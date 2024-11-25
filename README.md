@@ -7,6 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=82ACF7&width=435&lines=Salutations!+My+name+is+Natasha." alt="Typing SVG" /></a>
 <br><br>
 <pre>
+    📚 Computer Science at Wellesley College
     🚙 Currently working on a 3D Object Detection project for self driving vehicles. 
     💻 prev SWE intern at a.i solutions 
     ✨ Fun fact: My username is inspired by a nickname my younger brother called me. 
@@ -19,7 +20,7 @@
 [![](https://img.shields.io/badge/devpost-green)](https://devpost.com/natwoshoes?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 </div>
 
-## Languages and Tools  
+### Languages and Tools  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -36,10 +37,10 @@
 <br/>  
 
 
-## Github Stats  
+### Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=natwoshoes&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
