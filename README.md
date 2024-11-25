@@ -1,7 +1,3 @@
-
-
-[![](https://visitcount.itsvg.in/api?id=natwoshoes&label=STALKERS%20%3BD&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=82ACF7&width=435&lines=Salutations!+My+name+is+Natasha." alt="Typing SVG" /></a>
 <br><br>
@@ -48,3 +44,5 @@
 </td></tr></table>  
 
 <br/>  
+[![](https://visitcount.itsvg.in/api?id=natwoshoes&label=stalkers%20%3BD&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
