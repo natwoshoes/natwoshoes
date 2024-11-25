@@ -43,6 +43,7 @@
 
 </td></tr></table>  
 
+[![](https://visitcount.itsvg.in/api?id=natwoshoes&label=STALKERS%20%3BD&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 <br/>  
-[![](https://visitcount.itsvg.in/api?id=natwoshoes&label=stalkers%20%3BD&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
