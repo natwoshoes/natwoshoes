@@ -3,7 +3,7 @@
 <br><br>
 <pre>
     📚 Currently studying Computer Science at Wellesley College
-    🚙 Currently working on a 3D Object Detection project for self driving vehicles. 
+    🚙 Working on a 3D Object Detection project for self driving vehicles. 
     💻 prev SWE intern at a.i solutions 
     ✨ Fun fact: My username is inspired by a nickname my younger brother called me. 
 </pre>
