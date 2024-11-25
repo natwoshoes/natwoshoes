@@ -9,10 +9,9 @@
 <pre>
     Salutations! My name is Natasha and I'm from NYC. I'm studying 
     Computer Science at Wellesley College.
-    ✨ Fun fact: My username (na-✌️-👟) is inspired by a nickname my younger brother called me. 
-    🚀 I also love outer space. 
-    📖 Computer Science at Wellesley College 
+    🚙 Currently working on a 3D Object Detection project for self driving vehicles. 
     💻 prev SWE intern at a.i solutions 
+    ✨ Fun fact: My username (na-✌️-👟) is inspired by a nickname my younger brother called me. 
 
 </pre>
 <br><br>
