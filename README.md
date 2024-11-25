@@ -1,8 +1,4 @@
-Salutations! My name is Natasha and I'm from NYC. I'm studying Computer Science at Wellesley College.
 
-✨ Fun fact: My username (na-✌️-👟) is inspired by a nickname my younger brother called me. 
-
-🚀 I also love outer space. 
 
 [![](https://visitcount.itsvg.in/api?id=natwoshoes&label=STALKERS%20%3BD&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
@@ -11,11 +7,12 @@ Salutations! My name is Natasha and I'm from NYC. I'm studying Computer Science 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    Salutations! My name is Natasha and I'm from NYC. I'm studying Computer Science at Wellesley College.
+    ✨ Fun fact: My username (na-✌️-👟) is inspired by a nickname my younger brother called me. 
+    🚀 I also love outer space. 
+    📖 Computer Science at Wellesley College 
+    💻 prev SWE intern at a.i solutions 
+
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
