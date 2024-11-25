@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=82ACF7&width=435&lines=Salutations!+My+name+is+Natasha." alt="Typing SVG" /></a>
 <br><br>
 <pre>
-    📚 Computer Science at Wellesley College
+    📚 Currently studying Computer Science at Wellesley College
     🚙 Currently working on a 3D Object Detection project for self driving vehicles. 
     💻 prev SWE intern at a.i solutions 
     ✨ Fun fact: My username is inspired by a nickname my younger brother called me. 
