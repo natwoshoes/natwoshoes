@@ -8,7 +8,6 @@
     ✨ Fun fact: My username is inspired by a nickname my younger brother called me. 
 </pre>
 <br><br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="100" />
 <br><br><br>
 </div>raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
