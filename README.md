@@ -5,7 +5,7 @@
     📚 Currently studying Computer Science at Wellesley College
     🚙 Check out my team's project repository for the real-world ML project we worked on 
     for Latitude AI for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio!                 
-    <a href="https://github.com/natwoshoes/ObjectDetectionModel_LatitudeAI">
+    <a href="https://github.com/natwoshoes/ObjectDetectionModel_LatitudeAI"></a>
     💻 prev SWE intern at a.i solutions 
     ✨ Fun fact: My username is inspired by a nickname my younger brother called me. 
 
