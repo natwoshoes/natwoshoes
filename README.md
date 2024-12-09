@@ -3,9 +3,13 @@
 <br><br>
 <pre>
     📚 Currently studying Computer Science at Wellesley College
-    🚙 Working on a 3D Object Detection project for self driving vehicles. 
+    🚙 Check out my team's project repository for the real-world ML project we worked on for Latitude AI for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio!                 
+    https://github.com/natwoshoes/ObjectDetectionModel_LatitudeAI
     💻 prev SWE intern at a.i solutions 
     ✨ Fun fact: My username is inspired by a nickname my younger brother called me. 
+
+
+
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
@@ -44,5 +48,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=natwoshoes&label=STALKERS%20%3BD&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-<br/>  
+<br/> 
+
 
