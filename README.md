@@ -36,19 +36,5 @@
 <br/>  
 
 
-### Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=natwoshoes&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natwoshoes&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-[![](https://visitcount.itsvg.in/api?id=natwoshoes&label=Visitor%20%3BD&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-<br/> 
 
 
