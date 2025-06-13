@@ -3,7 +3,7 @@
 <br><br>
 <pre>
     📚 studying Computer Science at Wellesley College
-    💻 Current SWE Intern at NASA, prev SWE intern at a.i solutions 
+    💻 Current SWE intern at NASA, prev SWE intern at a.i solutions 
     ✨ Fun fact: My username is inspired by a nickname my younger brother called me. 
 
 
